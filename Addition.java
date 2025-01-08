@@ -10,6 +10,8 @@ public class Addition{
 	int sno=sc.nextInt();
 	
 	System.out.println("Result of Addition is "+ (fno+sno));
+	System.out.println("Mergin New Branch");
+
 	sc.close();
 	
 	}
